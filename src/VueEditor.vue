@@ -23,8 +23,10 @@ var defaultToolbar = [
   [{ 'font': [] }],
   [{ 'align': [] }],
 
-  ['clean']
-]
+  ['clean'] ,
+  
+  ['link']
+ ]
 
 export default {
   name: 'vue-editor',
